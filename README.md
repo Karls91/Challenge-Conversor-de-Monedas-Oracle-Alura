@@ -133,14 +133,6 @@ Resultado: 100 USD = 85.00 EUR
 
 ---
 
-## Contribución
-
-Si deseas contribuir a este proyecto:
-1. Realiza un fork del repositorio.
-2. Crea una nueva rama para tus cambios.
-3. Envía un pull request con una descripción detallada de tus contribuciones.
-
----
 
 
 
